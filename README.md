@@ -5,20 +5,33 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+- Ruby version
 
-* System dependencies
+- System dependencies
 
-* Configuration
+- Configuration
 
-* Database creation
+- Database creation
 
-* Database initialization
+- Database initialization
 
-* How to run the test suite
+- How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+- Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+- Deployment instructions
 
-* ...
+- ...
+
+⭐️ Topics covered in this course ⭐️
+⌨️ Introduction and Installation
+⌨️ First Webpage and MVC Overview
+⌨️ Application Partial Links and New Pages
+⌨️ CRUD Scaffold
+⌨️ Style App with Bootstrap
+⌨️ Style Devise Views
+⌨️ Associations
+⌨️ More Associations
+⌨️ Style Modifications
+⌨️ Fun With the Controller
+⌨️ Git, GitHub, and Heroku
